@@ -1,0 +1,17 @@
+{
+	id: "e1aa6187-ca54-3671-b82f-a366114206b2"
+	type: "player"
+	player_name: "filend"
+	ranks: {
+		e1aa6187-ca54-3671-b82f-a366114206b2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "filend"
+		"ftbteams:description": ""
+		"ftbteams:color": "#CD59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

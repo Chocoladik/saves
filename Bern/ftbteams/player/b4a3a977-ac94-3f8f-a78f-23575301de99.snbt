@@ -1,0 +1,17 @@
+{
+	id: "b4a3a977-ac94-3f8f-a78f-23575301de99"
+	type: "player"
+	player_name: "crwdante"
+	ranks: {
+		b4a3a977-ac94-3f8f-a78f-23575301de99: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "crwdante"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59AAFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
